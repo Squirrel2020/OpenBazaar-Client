@@ -1536,7 +1536,7 @@ module.exports = Backbone.Model.extend({
         Customize: "Настроиь",
         Save: "Сохранить",
         Changes: "Изменения",
-        SaveChanges: "Сохранить изменения",
+        SaveChanges: "Применить",
         YourName: "Ваше имя",
         BitcoinReturnAddress: "Bitcoin адрес",
         LocalCurrency: "Местная валюта",
