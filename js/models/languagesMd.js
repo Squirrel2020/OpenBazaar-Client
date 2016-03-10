@@ -4157,7 +4157,7 @@ module.exports = Backbone.Model.extend({
         IAgree: "Согласен",
         Back: "Назад",
         EnterMessage: "Ввести сообщение...",
-        Recommended: "Recommended", //notTranslated
+        Recommended: "Рекомендуемые", //notTranslated
         Reload: "Обновить",
         You: "Вы",
         Skip: "Пропустить",
@@ -4218,7 +4218,7 @@ module.exports = Backbone.Model.extend({
         SearchFeedPlaceholder: "Поиск по имени или OpenBazaar ID",
         SearchForFollowersPlaceholder: "Поиск по имени или OpenBazaar ID",
         SearchForUsersPlaceholder: "Поиск по имени или OpenBazaar ID",
-        SearchOnUserStorePlaceholder: "Type a title...", //notTranslated
+        SearchOnUserStorePlaceholder: "Введите название...",
         EstDeliveryDomesticPlaceholder: "3-5 рабочих дней",
         EstDeliveryInternationalPlaceholder: "7-15 рабочих дней",
         OrderProcessingTimePlaceholder: "1-2 рабочих дней",
@@ -4244,7 +4244,7 @@ module.exports = Backbone.Model.extend({
         Twitter: "Twitter",
         PGPKey: "PGP Key",
         Signature: "PGP Signature", //not translated
-        SignaturePlaceholder: "A PGP Signature is required if you enter a PGP Key", //not translated
+        SignaturePlaceholder: "PGP подпись требуется для того чтобы вводить PGP ключи",
         Snapchat: "Snapchat",
         BUYNOW: "Купи сейчас",
         Description: "Описание",
@@ -4265,13 +4265,13 @@ module.exports = Backbone.Model.extend({
         Customize: "Настроить",
         Save: "Сохранить",
         Changes: "Изменения",
-        Change: "Change", //notTranslated
+        Change: "Изменить",
         SaveChanges: "Применить",
         YourName: "Ваше имя",
-        BitcoinAddress: "Bitcoin Addresss", //notTranslated
-        BitcoinReturnAddress: "Enter your Bitcoin Address", //notTranslated
-        BitcoinReturnAddressPlaceholder: "bitcoin address to return coins to", //not translated
-        BitcoinReturnAddressInfo: "If a refund is issued, the funds will need to be sent to a Bitcoin address. Please provide an address to your Wallet below.", //not translated
+        BitcoinAddress: "Bitcoin адрес",
+        BitcoinReturnAddress: "Введите ваш биткойн адрес",
+        BitcoinReturnAddressPlaceholder: "биткойн адрес для возврата денег",
+        BitcoinReturnAddressInfo: "В случае осуществления возврата, потребуется биткойн адрес куда будут переведены эти средства. Пожалуйста укажите ваш личный действующий кошелёк.",
         LocalCurrency: "Местная валюта",
         TimeZone: "Часовой пояс",
         ShipToName: "Имя",
@@ -4299,7 +4299,7 @@ module.exports = Backbone.Model.extend({
         Theme: "Тема", //not translated
         Listing: "Объявление", //not translated
         Listings: "Объявления", //not translated
-        ViewPage: "View page", //notTranslated
+        ViewPage: "Просмотр страницы", //notTranslated
         Pages: "Страницы", //not translated
         Page: "Страница", //not translated
         Language: "Язык", //not translated
